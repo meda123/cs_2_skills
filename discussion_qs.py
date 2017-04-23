@@ -57,7 +57,9 @@ Tree
 # Sorting 
 """
 
-1. Describe in words how the Bubble Sort algorithm works.
+1. Describe in words how the Bubble Sort algorithm works. 
+The bubble sort 
+
 2. Describe in words how the Merge Sort algorithm works.
 3. Describe in words how the Quick Sort algorithm works
 
